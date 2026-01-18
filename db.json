@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nexus Pro Ultra",
+      "description": "High-performance computing device for the modern professional. Featuring zero-latency architecture and titanium casing.",
+      "price": 1299.99,
+      "category": "Electronics",
+      "image": "https://www.yankodesign.com/images/design_news/2022/12/teenage-engineering-desktop-pc-case-exudes-raw-power-with-a-retro-futuristic-vibe/teenage-engineering-computer-1-aluminum-3.jpg",
+      "rating": 4.8,
+      "stock": 12,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Stealth Audio X",
+      "description": "Noise-cancelling headphones with biometric sensors and immersive spatial audio engineering.",
+      "price": 349,
+      "category": "Audio",
+      "image": "https://designwanted.com/wp-content/uploads/2023/01/Wireless-headphone-concepts-cover.jpg",
+      "rating": 4.9,
+      "stock": 45,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Lumina Smart Light",
+      "description": "Ambient lighting system controlled by AI, adapting to your circadian rhythm for better sleep.",
+      "price": 89.99,
+      "category": "Home",
+      "image": "https://img.freepik.com/free-photo/side-view-hand-with-smartphone-smart-light_23-2150671605.jpg?semt=ais_hybrid&w=740&q=80",
+      "rating": 4.5,
+      "stock": 120,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Vanguard Backpack",
+      "description": "Anti-theft modular backpack designed for digital nomads. Waterproof and includes solar charging panel.",
+      "price": 159.5,
+      "category": "Travel",
+      "image": "https://conceptkart.com/cdn/shop/files/Concept-Kart-BANGE-BG-7216plus-Antitheft-Lock-USBPort-Travel-Backpack-_2_grande.jpg?v=1690539064",
+      "rating": 4.7,
+      "stock": 30,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Core Fitness Tracker",
+      "description": "Advanced metabolic tracking in a sleek, minimalist band. 30-day battery life.",
+      "price": 199,
+      "category": "Fitness",
+      "image": "https://www.sbsmobile.com/cdn/shop/files/GLBEATSMARTHRA_PAN_1.jpg?v=1742378002&width=2048",
+      "rating": 4.3,
+      "stock": 80,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Infinite Ergo Chair",
+      "description": "The last office chair you will ever need. Self-adjusting lumbar support and breathable mesh.",
+      "price": 899,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScamQKxtGnB1WfM96fMMQ3886jkcQta5ccdg&s",
+      "rating": 4.9,
+      "stock": 5,
+      "sellerId": "admin@nexus.com",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "1768730198049",
+      "name": "RTX 3060 MSI Gaming X",
+      "description": "Graphics card",
+      "price": 200,
+      "category": "Electronics",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/rtx-3060-gaming-x/rtx-3060-gaming-x-01-500x500.jpg",
+      "stock": 8,
+      "sellerId": "ymohammad18@gmail.com",
+      "rating": 5,
+      "createdAt": "2026-01-18T09:56:38.049Z",
+      "updatedAt": "2026-01-18T10:19:56.910Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1768729181255",
+      "userId": "ymohammad18@gmail.com",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 89.99,
+          "name": "Lumina Smart Light"
+        }
+      ],
+      "total": 117.864125,
+      "status": "pending",
+      "date": "2026-01-18T09:39:41.255Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin@nexus.com",
+      "email": "admin@nexus.com",
+      "name": "Alex Johnson"
+    }
+  ]
+}
