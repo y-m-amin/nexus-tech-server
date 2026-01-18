@@ -230,6 +230,6 @@ app.get('/api/health', (req, res) => {
 //   console.log(`🚀 Server running on http://localhost:${PORT}`);
 // });
 
-module.exports = app;
+//module.exports = app;
 
-//export default app;
+export default app;
